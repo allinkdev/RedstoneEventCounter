@@ -1,0 +1,6 @@
+name: RedstoneEventCounter
+api-version: 1.19
+description: "For tracking the tick difference between every execution of BlockRedstoneEvent under intense redstone load."
+author: "Allink"
+version: 1.0.0
+main: "me.allinkdev.redstoneeventcounter.RedstoneEventCounter"
